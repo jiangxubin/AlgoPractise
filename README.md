@@ -1,2 +1,2 @@
 # AlgoPractise
-Solution for questions in LeetCode Repositiory written by Java
+Solution of Algorithm problems, Interview questions and solutions by Java
